@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
-
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
+</div>
+  
 ### Hi there 👋, my name is Amayuru
 I made this project just for fun.
 
@@ -27,27 +29,61 @@ Skills: JAVA / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+### 👨‍💻 Languages
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+  https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+</div>
+  
+##
+  
+### 🧰 Frameworks  
+<div>
+  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+</div>  
+  
+##
+
+## 🔗 Contact  
+<div>
+  <a href="https://www.youtube.com/channel/UC5h5sz0K2Kn1b7gaVy65RXQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&         logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/AmayuruI" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"           target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"               target="_blank"></a>
+  <a href="https://www.linkedin.com/in/amayuru-indeewara-13a6b0195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&     logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
   
   ![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/output/github-contribution-grid-snake.svg)
 </div>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayuru56789)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true) 
+</div>  
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayuru56789)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true)-->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amayuru56789)  
 
-![GitHub metrics](https://metrics.lecoq.io/amayuru56789)  
+<!--![GitHub metrics](https://metrics.lecoq.io/amayuru56789)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amayuru56789)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amayuru56789)-->  
 
+<div align="center">
+  ![GitHub metrics](https://metrics.lecoq.io/amayuru56789)  
+
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amayuru56789) 
+<div>  
 ![Profile views](https://gpvc.arturio.dev/amayuru56789)  
 
 
