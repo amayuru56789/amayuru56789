@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
+
   
 ### Hi there 👋, my name is Amayuru
 I made this project just for fun.
@@ -56,16 +56,15 @@ Skills: JAVA / JS / HTML / CSS
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
   
-  ![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/output/github-contribution-grid-snake.svg)
-</div>  
+</div>
 
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/output/github-contribution-grid-snake.svg)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayuru56789)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true) 
-</p>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayuru56789)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true) 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -75,15 +74,10 @@ Skills: JAVA / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amayuru56789)  
 
-<!--![GitHub metrics](https://metrics.lecoq.io/amayuru56789)  
+![GitHub metrics](https://metrics.lecoq.io/amayuru56789)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amayuru56789)-->  
 
-<p align="center">
-  ![GitHub metrics](https://metrics.lecoq.io/amayuru56789)  
-
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amayuru56789) 
-<p>  
 ![Profile views](https://gpvc.arturio.dev/amayuru56789)  
 
 
