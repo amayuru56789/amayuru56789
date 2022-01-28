@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<p align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
-</div>
+</p>
   
 ### Hi there 👋, my name is Amayuru
 I made this project just for fun.
@@ -31,18 +31,18 @@ Skills: JAVA / JS / HTML / CSS
 
 ### 👨‍💻 Languages
 <div>
-  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-  https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src=" https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>  
 </div>
   
 ##
   
 ### 🧰 Frameworks  
 <div>
-  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
 </div>  
   
 ##
@@ -59,13 +59,13 @@ Skills: JAVA / JS / HTML / CSS
   ![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/output/github-contribution-grid-snake.svg)
 </div>  
 
-<div align="center">
+<p align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayuru56789)](https://github.com/anuraghazra/github-readme-stats)
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true) 
-</div>  
+</p>  
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -79,11 +79,11 @@ Skills: JAVA / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amayuru56789)-->  
 
-<div align="center">
+<p align="center">
   ![GitHub metrics](https://metrics.lecoq.io/amayuru56789)  
 
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amayuru56789) 
-<div>  
+<p>  
 ![Profile views](https://gpvc.arturio.dev/amayuru56789)  
 
 
