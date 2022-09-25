@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
+</div>
 
   
 ### Hi there 👋, my name is Amayuru
@@ -30,7 +32,7 @@ Skills: JAVA / JS / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ### 👨‍💻 Languages
-<div>
+<div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -41,14 +43,14 @@ Skills: JAVA / JS / HTML / CSS
 ##
   
 ### 🧰 Frameworks  
-<div>
+<div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
 </div>  
   
 ##
 
 ## 🔗 Contact  
-<div>
+<div align="center">
   <a href="https://www.youtube.com/channel/UC5h5sz0K2Kn1b7gaVy65RXQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&         logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/AmayuruI" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"           target="_blank"></a>
   <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"               target="_blank"></a>
