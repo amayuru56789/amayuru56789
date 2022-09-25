@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
-</div>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
+
 
   
 ### Hi there 👋, my name is Amayuru
