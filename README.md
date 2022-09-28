@@ -63,7 +63,7 @@ Skills: JAVA / JS / HTML / CSS
   
 </div>
 
-![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/master/snake/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/main/snake/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -77,7 +77,7 @@ Skills: JAVA / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true)-->
 
-![profile 3d](https://github.com/amayuru56789/amayuru56789/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![profile 3d](https://github.com/amayuru56789/amayuru56789/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amayuru56789)  
 
