@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
-
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Amayuru+Indeewara;Software+Engineer+;Full+Stack+Developer+and+Designer;And+an+Open+Source+Supporter">
+</p >
 
   
 ### Hi there 👋, my name is Amayuru
@@ -73,6 +76,8 @@ Skills: JAVA / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayuru56789)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amayuru56789&show_icons=true)-->
+
+![profile 3d](https://github.com/amayuru56789/amayuru56789/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amayuru56789)  
 
