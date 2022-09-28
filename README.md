@@ -63,7 +63,7 @@ Skills: JAVA / JS / HTML / CSS
   
 </div>
 
-![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amayuru56789/amayuru56789/blob/master/snake/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amayuru56789)](https://github.com/ryo-ma/github-profile-trophy)
 
