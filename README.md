@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 <!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F746&lines=Hi%2C+I'+am+Amayuru;Software+Engineer;and+Designer)](https://git.io/typing-svg)
 -->
+
+<h3 align="center"> ƤɾօƒíƖҽ Víҽⱳʂ 🕵️‍♂️ </h3>
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{amayuru56789}/count.svg)
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Amayuru+Indeewara;Software+Engineer+;Full+Stack+Developer+and+Designer;And+an+Open+Source+Supporter">
 </p >
@@ -87,7 +94,9 @@ Skills: JAVA / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/amayuru56789)  
 
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 
 
 
